@@ -156,9 +156,7 @@ Unit tests can be ran with `pytest` or `make test`.
 
 ## Why Does This Exist?
 
-I love doing code reviews: I like taking something and making it better, faster, more
-elegant, and so on. Lots of static analysis tools already exist, but none of them seem
-to be focused on making code more elegant, more readable, or more modern. That is where
+I love doing code reviews: I like taking something and making it better, faster, more elegant, and so on. Lots of static analysis tools already exist, but none of them seem to be focused on making code more elegant, more readable, or more modern. That is where
 Refurb comes in.
 
 Refurb is heavily inspired by [clippy](https://rust-lang.github.io/rust-clippy/master/index.html),
